@@ -2,5 +2,5 @@
 <manifest>
     <remote name="lzfhome" fetch="git@github.com:lzfhome/" />
     <default remote="lzfhome" revision="master"/>
-    <project 　name="English_Study"/>
+    <project name="English_Study"/>
 </manifest>
