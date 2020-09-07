@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
-    <remote name="lzfhome" fetch=".." />
+    <remote name="lzfhome" fetch="git@github.com:lzfhome/" />
     <default remote="lzfhome" revision="master"/>
-    <project path="English_Study1" name="English_Study"/>
+    <project 　name="English_Study"/>
 </manifest>
